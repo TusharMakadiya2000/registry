@@ -1,0 +1,216 @@
+[
+    {
+        "id": 1,
+        "Name": "Mojito",
+        "Category": "Cocktail",
+        "Info": "Refreshing minty cocktail",
+        "Instructions": "Muddle mint leaves with sugar and lime juice. Add rum and top with soda water. Serve over ice.",
+        "Ingredients": [
+            "White Rum",
+            "Sugar",
+            "Lime Juice",
+            "Mint",
+            "Soda Water"
+        ],
+        "Image": "https://www.thecocktaildb.com/images/media/drink/metwgh1606770327.jpg"
+    },
+    {
+        "id": 2,
+        "Name": "Margarita",
+        "Category": "Cocktail",
+        "Info": "Classic tequila cocktail",
+        "Instructions": "Shake tequila, lime juice, and triple sec with ice. Strain into salt-rimmed glass.",
+        "Ingredients": ["Tequila", "Triple Sec", "Lime Juice", "Salt"],
+        "Image": "https://www.thecocktaildb.com/images/media/drink/5noda61589575158.jpg"
+    },
+    {
+        "id": 3,
+        "Name": "Old Fashioned",
+        "Category": "Cocktail",
+        "Info": "Whiskey-based classic",
+        "Instructions": "Stir bourbon, bitters, and sugar with ice. Strain into glass and garnish with orange twist.",
+        "Ingredients": ["Bourbon", "Bitters", "Sugar", "Orange Peel"],
+        "Image": "https://www.thecocktaildb.com/images/media/drink/vrwquq1478252802.jpg"
+    },
+    {
+        "id": 4,
+        "Name": "Daiquiri",
+        "Category": "Cocktail",
+        "Info": "Rum citrus drink",
+        "Instructions": "Shake rum, lime juice, and sugar syrup with ice. Strain into cocktail glass.",
+        "Ingredients": ["White Rum", "Lime Juice", "Sugar Syrup"],
+        "Image": "https://www.thecocktaildb.com/images/media/drink/mrz9091589574515.jpg"
+    },
+    {
+        "id": 5,
+        "Name": "Negroni",
+        "Category": "Cocktail",
+        "Info": "Italian classic aperitif",
+        "Instructions": "Stir gin, Campari, and sweet vermouth with ice. Strain into glass over fresh ice.",
+        "Ingredients": ["Gin", "Campari", "Sweet Vermouth"],
+        "Image": "https://www.thecocktaildb.com/images/media/drink/qgdu971561574065.jpg"
+    },
+    {
+        "id": 6,
+        "Name": "Whiskey Sour",
+        "Category": "Cocktail",
+        "Info": "Whiskey and lemon mix",
+        "Instructions": "Shake whiskey, lemon juice, and sugar syrup with ice. Strain into glass.",
+        "Ingredients": [
+            "Whiskey",
+            "Lemon Juice",
+            "Sugar Syrup",
+            "Egg White (optional)"
+        ],
+        "Image": "https://www.thecocktaildb.com/images/media/drink/hbkfsh1589574990.jpg"
+    },
+    {
+        "id": 7,
+        "Name": "Cosmopolitan",
+        "Category": "Cocktail",
+        "Info": "Modern pink cocktail",
+        "Instructions": "Shake vodka, triple sec, cranberry juice, and lime juice with ice. Strain into cocktail glass.",
+        "Ingredients": ["Vodka", "Triple Sec", "Cranberry Juice", "Lime Juice"],
+        "Image": "https://www.thecocktaildb.com/images/media/drink/kpsajh1504368362.jpg"
+    },
+    {
+        "id": 8,
+        "Name": "Mai Tai",
+        "Category": "Cocktail",
+        "Info": "Tropical rum blend",
+        "Instructions": "Shake all ingredients except dark rum. Strain into glass and float dark rum on top.",
+        "Ingredients": [
+            "White Rum",
+            "Lime Juice",
+            "Orange Curaçao",
+            "Orgeat Syrup",
+            "Dark Rum"
+        ],
+        "Image": "https://www.thecocktaildb.com/images/media/drink/twyrrp1439907470.jpg"
+    },
+    {
+        "id": 9,
+        "Name": "Bloody Mary",
+        "Category": "Cocktail",
+        "Info": "Spicy tomato vodka drink",
+        "Instructions": "Stir vodka, tomato juice, and seasonings. Pour over ice and garnish.",
+        "Ingredients": [
+            "Vodka",
+            "Tomato Juice",
+            "Lemon Juice",
+            "Worcestershire Sauce",
+            "Tabasco",
+            "Salt",
+            "Pepper"
+        ],
+        "Image": "https://www.thecocktaildb.com/images/media/drink/t6caa21582485702.jpg"
+    },
+    {
+        "id": 10,
+        "Name": "Pina Colada",
+        "Category": "Cocktail",
+        "Info": "Creamy tropical drink",
+        "Instructions": "Blend rum, coconut cream, and pineapple juice with ice. Serve in chilled glass.",
+        "Ingredients": ["White Rum", "Coconut Cream", "Pineapple Juice"],
+        "Image": "https://www.thecocktaildb.com/images/media/drink/cpf4j51504371346.jpg"
+    },
+    {
+        "id": 11,
+        "Name": "Manhattan",
+        "Category": "Cocktail",
+        "Info": "Whiskey and vermouth classic",
+        "Instructions": "Stir ingredients with ice and strain into cocktail glass. Garnish with cherry.",
+        "Ingredients": ["Rye Whiskey", "Sweet Vermouth", "Bitters"],
+        "Image": "https://www.thecocktaildb.com/images/media/drink/yk70e31606771240.jpg"
+    },
+    {
+        "id": 12,
+        "Name": "Gin and Tonic",
+        "Category": "Cocktail",
+        "Info": "Simple gin mix",
+        "Instructions": "Pour gin into a glass with ice and top with tonic water. Garnish with lime.",
+        "Ingredients": ["Gin", "Tonic Water", "Lime"],
+        "Image": "https://www.thecocktaildb.com/images/media/drink/qcgz0t1643821443.jpg"
+    },
+    {
+        "id": 13,
+        "Name": "Long Island Iced Tea",
+        "Category": "Cocktail",
+        "Info": "Strong mixed drink",
+        "Instructions": "Mix all ingredients except cola in shaker. Pour into glass and top with cola.",
+        "Ingredients": [
+            "Vodka",
+            "Tequila",
+            "White Rum",
+            "Triple Sec",
+            "Gin",
+            "Lemon Juice",
+            "Sugar Syrup",
+            "Cola"
+        ],
+        "Image": "https://www.thecocktaildb.com/images/media/drink/wx7hsg1504370510.jpg"
+    },
+    {
+        "id": 14,
+        "Name": "Tequila Sunrise",
+        "Category": "Cocktail",
+        "Info": "Vibrant citrus tequila",
+        "Instructions": "Pour tequila and orange juice into glass over ice. Slowly add grenadine to create sunrise effect.",
+        "Ingredients": ["Tequila", "Orange Juice", "Grenadine"],
+        "Image": "https://www.thecocktaildb.com/images/media/drink/quqyqp1480879103.jpg"
+    },
+    {
+        "id": 15,
+        "Name": "Aperol Spritz",
+        "Category": "Cocktail",
+        "Info": "Italian aperitif",
+        "Instructions": "Combine Aperol, prosecco, and soda in a glass with ice. Garnish with orange slice.",
+        "Ingredients": ["Aperol", "Prosecco", "Soda Water", "Orange Slice"],
+        "Image": "https://www.thecocktaildb.com/images/media/drink/ib0b7g1504818925.jpg"
+    },
+    {
+        "id": 16,
+        "Name": "Caipirinha",
+        "Category": "Cocktail",
+        "Info": "Brazilian lime drink",
+        "Instructions": "Muddle lime and sugar. Add cachaça and ice, then stir well.",
+        "Ingredients": ["Cachaça", "Lime", "Sugar", "Ice"],
+        "Image": "https://www.thecocktaildb.com/images/media/drink/jgvn7p1582484435.jpg"
+    },
+    {
+        "id": 17,
+        "Name": "Tom Collins",
+        "Category": "Cocktail",
+        "Info": "Gin and lemon cocktail",
+        "Instructions": "Shake gin, lemon juice, and sugar syrup. Strain into glass and top with soda water.",
+        "Ingredients": ["Gin", "Lemon Juice", "Sugar Syrup", "Soda Water"],
+        "Image": "https://www.thecocktaildb.com/images/media/drink/7cll921606854636.jpg"
+    },
+    {
+        "id": 18,
+        "Name": "French 75",
+        "Category": "Cocktail",
+        "Info": "Sparkling gin cocktail",
+        "Instructions": "Shake gin, lemon juice, and sugar syrup. Strain into glass and top with champagne.",
+        "Ingredients": ["Gin", "Lemon Juice", "Sugar Syrup", "Champagne"],
+        "Image": "https://www.thecocktaildb.com/images/media/drink/rz5aun1504389701.jpg"
+    },
+    {
+        "id": 19,
+        "Name": "Cuba Libre",
+        "Category": "Cocktail",
+        "Info": "Rum and coke with lime",
+        "Instructions": "Pour rum and cola into glass with ice. Add lime juice and garnish.",
+        "Ingredients": ["White Rum", "Cola", "Lime Juice", "Lime Wedge"],
+        "Image": "https://www.thecocktaildb.com/images/media/drink/wmkbfj1606853905.jpg"
+    },
+    {
+        "id": 20,
+        "Name": "Screwdriver",
+        "Category": "Cocktail",
+        "Info": "Simple vodka and OJ",
+        "Instructions": "Pour vodka and orange juice into glass with ice. Stir and serve.",
+        "Ingredients": ["Vodka", "Orange Juice", "Ice"],
+        "Image": "https://www.thecocktaildb.com/images/media/drink/8xnyke1504352207.jpg"
+    }
+]
